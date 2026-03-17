@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Thugz Mansion (7 Remix) (feat. Anthony Hamilton)",
+  "base_artist": "2Pac",
+  "createdAt": "2026-03-17T22:22:10.421808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thugz Mansion (7 Remix)",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/01_Thugz_Mansion_(7_Remix)_2Pac.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thugz Mansion (Nas Acoustic)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/02_Thugz_Mansion_(Nas_Acoustic)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thugz Mansion",
+      "artist": "2Pac & Nas",
+      "has_synced": false,
+      "path": "select/03_Thugz_Mansion_2Pac_&_Nas.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thugz Mansion",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/04_Thugz_Mansion_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thugz Mansion (Feat Anthony Hamilton)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/05_Thugz_Mansion_(Feat_Anthony_Hamilton)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thugz Mansion",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/06_Thugz_Mansion_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thugz Mansion - 7 Remix",
+      "artist": "2Pac feat. Anthony Hamilton",
+      "has_synced": true,
+      "path": "select/07_Thugz_Mansion_-_7_Remix_2Pac_feat._Anthony_Hamilton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thugz Mansion (7 Remix) (feat. Anthony Hamilton)",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/08_Thugz_Mansion_(7_Remix)_(feat._Anthony_Hamilton)_2Pac.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thugz Mansion (Acoustic)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/09_Thugz_Mansion_(Acoustic)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thugz Mansion (7 remix)",
+      "artist": "2Pac; Anthony Hamilton",
+      "has_synced": true,
+      "path": "select/10_Thugz_Mansion_(7_remix)_2Pac;_Anthony_Hamilton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thugz Mansion (N.Y.)",
+      "artist": "Nas; 2Pac; J. Phoenix",
+      "has_synced": true,
+      "path": "select/11_Thugz_Mansion_(N.Y.)_Nas;_2Pac;_J._Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thugz Mansion (feat. Anthony Hamilton) [7 Remix]",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/12_Thugz_Mansion_(feat._Anthony_Hamilton)_[7_Remix]_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thugz Mansion (N.Y.)",
+      "artist": "Nas feat. 2Pac & J. Phoenix",
+      "has_synced": true,
+      "path": "select/13_Thugz_Mansion_(N.Y.)_Nas_feat._2Pac_&_J._Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thugz Mansion (N.Y.)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/14_Thugz_Mansion_(N.Y.)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thugz Mansion NY",
+      "artist": "Nas feat. 2Pac & J. Phoenix",
+      "has_synced": true,
+      "path": "select/15_Thugz_Mansion_NY_Nas_feat._2Pac_&_J._Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thugz Mansion (2Pac Original) [Acoustic]",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/16_Thugz_Mansion_(2Pac_Original)_[Acoustic]_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thugz Mansion [2Pac Original Acoustic]",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/17_Thugz_Mansion_[2Pac_Original_Acoustic]_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Thugz Mansion (N.Y.) (feat. 2Pac & J. Phoenix)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/18_Thugz_Mansion_(N.Y.)_(feat._2Pac_&_J._Phoenix)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Thugz Mansion (N.Y.) (feat. 2Pac & J. Phoenix)",
+      "artist": "Nas feat. 2Pac & J. Phoenix",
+      "has_synced": false,
+      "path": "select/19_Thugz_Mansion_(N.Y.)_(feat._2Pac_&_J._Phoenix)_Nas_feat._2Pac_&_J._Phoenix.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Thugz Mansion (N.Y.) (feat. 2Pac & J. Phoenix)",
+      "artist": "Nas/2Pac/J. Phoenix",
+      "has_synced": false,
+      "path": "select/20_Thugz_Mansion_(N.Y.)_(feat._2Pac_&_J._Phoenix)_Nas_2Pac_J._Phoenix.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thugz Mansion",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/pl_01_Thugz_Mansion_2Pac.txt"
+    }
+  ]
+}
